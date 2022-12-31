@@ -10,5 +10,5 @@ create a web application that uses the [OpenWeatherMap](https://openweathermap.o
 - To set up the project environment, make sure that the Node and packages (express, cors and body-parser) are installed
 - than run the command ```node server.js``` in the terminal
 - make sure to get an api key from [OpenWeatherMap](https://openweathermap.org/)
-- copy/paste the api key to app.js file ```let apiKey = '&appid={your API key}&units=metric'; ```
+- copy/paste the api key to the app.js file ```const ApiKeyHere = 'here' ```
 - after that go to your localhost [localhost:3000](http://localhost:3000/) where is the web page is located
